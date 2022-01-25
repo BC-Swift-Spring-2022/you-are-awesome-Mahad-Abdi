@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A98687DC-0D41-4960-95F6-D5A63A245B08"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "542406D2-C077-4577-8444-8983C0C81AB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "You Are Awesome!/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "542406D2-C077-4577-8444-8983C0C81AB1 - 3bfeefe7bad465a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "You_Are_Awesome_.ViewController.messageLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "You Are Awesome!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahad/Desktop/You%20Are%20Awesome!/You%20Are%20Awesome!/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "542406D2-C077-4577-8444-8983C0C81AB1 - 7294d5fc2baf224e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "You_Are_Awesome_.ViewController.messageLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "You Are Awesome!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahad/Desktop/You%20Are%20Awesome!/You%20Are%20Awesome!/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "542406D2-C077-4577-8444-8983C0C81AB1 - a9ab49cd9df100cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "You_Are_Awesome_.ViewController.messageLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "You Are Awesome!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahad/Desktop/You%20Are%20Awesome!/You%20Are%20Awesome!/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "542406D2-C077-4577-8444-8983C0C81AB1 - ca8a305b68ecc963"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "You_Are_Awesome_.ViewController.messageLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "You Are Awesome!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahad/Desktop/You%20Are%20Awesome!/You%20Are%20Awesome!/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "542406D2-C077-4577-8444-8983C0C81AB1 - 8d217f54ce147f83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "You_Are_Awesome_.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; You_Are_Awesome_.ViewController"
+                  moduleName = "You Are Awesome!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahad/Desktop/You%20Are%20Awesome!/You%20Are%20Awesome!/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "121">
+               </Location>
+               <Location
+                  uuid = "542406D2-C077-4577-8444-8983C0C81AB1 - 883dac280c017288"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "You_Are_Awesome_.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;You_Are_Awesome_.ViewController&gt;"
+                  moduleName = "You Are Awesome!"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mahad/Desktop/You%20Are%20Awesome!/You%20Are%20Awesome!/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
